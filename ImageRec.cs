@@ -27,7 +27,7 @@ namespace Sirius_Sharp
 
         private void ImageRec_Load(object sender, EventArgs e)
         {
-
+            //Load
         }
     }
 }
