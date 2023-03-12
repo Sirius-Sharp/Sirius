@@ -12,7 +12,7 @@ namespace Sirius_Sharp
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             //STARTUP FORM
-            Application.Run(new Main());
+            Application.Run(new ProgressWindow());
         }
     }
 }
